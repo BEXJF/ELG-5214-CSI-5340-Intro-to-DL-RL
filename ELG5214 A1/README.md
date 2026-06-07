@@ -28,7 +28,7 @@ Dataset split:
 
 
 ## Files
-https://colab.research.google.com/drive/1a4VcvkAajFwaLjWYT0TXtjn30d0R0wz3?usp=sharing
+Link removed
 
 ## How to Run (Google Colab)
 
