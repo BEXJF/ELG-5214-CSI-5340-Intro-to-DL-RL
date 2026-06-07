@@ -1,8 +1,4 @@
 ELG5214
-Professor Colin Bellinger
-Assignment 0
-Ethan Xujia Fan
-300136316
 
 ## Environment: 
 OS: Windows 11
