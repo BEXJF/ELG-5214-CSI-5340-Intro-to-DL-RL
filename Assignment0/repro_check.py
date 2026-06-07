@@ -1,6 +1,6 @@
 """
-Ethan Xujia Fan
-300136316
+Ethan ******
+*********
 ELG 5214 
 Assignment 0
 Jan 23, 2026
