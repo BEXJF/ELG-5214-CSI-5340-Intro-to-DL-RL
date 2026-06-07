@@ -1,0 +1,9 @@
+base_seed: 123
+num_runs: 5
+epochs: 3
+batch_size: 128
+learning_rate: 0.001
+hidden_dim: 512
+log_every: 200
+device: cpu
+out_dir: outputs
